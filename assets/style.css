@@ -1,0 +1,59 @@
+/* ===== General Page Reset ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* ===== Body ===== */
+body {
+  background-color: #f8f9fa;
+  color: #333;
+  line-height: 1.6;
+  padding: 0 20px;
+}
+
+/* ===== Header ===== */
+header {
+  background-color: #2f3e46;
+  color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+  color: #ffffff;
+}
+
+/* ===== Footer ===== */
+footer {
+  background-color: #354f52;
+  color: #e0e0e0;
+  text-align: center;
+  padding: 15px;
+  font-size: 0.9rem;
+  border-top: 2px solid #52796f;
+}
+
+/* ===== Links ===== */
+a {
+  color: #0077b6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ===== Section Styling (Optional) ===== */
+section {
+  margin: 20px 0;
+  padding: 20px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
